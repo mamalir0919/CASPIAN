@@ -184,7 +184,7 @@ This error means that the remote name you want to use already exists. To solve t
 
 ## Removing a remote repository
 
-Use the `git remote rm` command to remove a remote URL from your repository.
+Use the `git remote rm` command to remove a remote URL from your repository.۰
 
 The `git remote rm` command takes one argument:
 
